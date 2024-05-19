@@ -1,0 +1,1 @@
+Sale [client=SERGI, products=[Product [name=Manzana, available=true, stock=9]], amount=41.6, time= 2024-04-01T18:10:19.154393400]
